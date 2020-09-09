@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Clout](https://img.shields.io/badge/-Clout-%23090808)](https://clout-agancy.netlify.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cloutagy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:governnment@gmail.com)
-[![Telegram](https://img.shields.io/badge/-telegram-blue)](https://t.me/Governnment)
+[![Telegram](https://img.shields.io/badge/-telegram-blue&logo=telegram)](https://t.me/Governnment)
 
 &nbsp;
 
@@ -40,7 +40,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg""></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
